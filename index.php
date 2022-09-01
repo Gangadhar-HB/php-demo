@@ -1,4 +1,4 @@
 <?php 
 //phpinfo();
-echo "response from devops-trail from stage"
+echo "response from devops-trail from stage edited"
 ?>
